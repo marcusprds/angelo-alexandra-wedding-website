@@ -1,32 +1,33 @@
-# Angelo & Alexandra Wedding Website
+Use this as your simplified `README.md`:
 
-A romantic regency-inspired digital wedding invitation website.
+```md
+# Angelo & Alexandra Wedding Invitation Website
 
-## Folder Structure
+A romantic digital wedding invitation website created for **Angelo Largo** and **Alexandra Waga**.
 
-```txt
-angelo-alexandra-github-ready/
-├── index.html
-├── README.md
-└── assets/
-    ├── css/
-    │   └── styles.css
-    └── js/
-        └── script.js
+This website presents the couple’s wedding details in an elegant and easy-to-browse format. It includes sections for the wedding date, venue, love story, event timeline, gallery, RSVP, and location map.
+
+The design is inspired by soft regency romance with a modern wedding website layout, making it suitable as a portfolio sample for digital wedding invitations.
+
+## Preview
+
+This project is built with:
+
+- HTML
+- CSS
+- JavaScript
+
+## Website Sections
+
+- Hero wedding invitation section
+- Wedding details
+- Love story
+- Event timeline
+- Photo gallery
+- RSVP section
+- Venue and Google Map location
+
+## Purpose
+
+This project is intended as a portfolio website sample for offering custom digital wedding invitations to couples and event clients.
 ```
-
-## How to Upload to GitHub
-
-1. Unzip this folder.
-2. Open your GitHub repository.
-3. Click **Add file** then **Upload files**.
-4. Drag these items into GitHub:
-   - `index.html`
-   - `README.md`
-   - `assets` folder
-5. Click **Commit changes**.
-6. Deploy the repository with Vercel.
-
-## Notes
-
-The website uses online images from Unsplash and an embedded Google Map, so it needs internet access for those to display.
